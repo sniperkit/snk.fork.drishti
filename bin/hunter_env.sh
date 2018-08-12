@@ -70,5 +70,8 @@ else
     install-ci-dependencies.py
 fi
 
+[ $(which clang++) ] && clang++ --version
+[ $(which g++) ] && g++ --version
+
 # Tune locations
 export PATH="${PWD}/_ci/cmake/bin:${PATH}"
