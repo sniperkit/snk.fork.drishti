@@ -109,6 +109,9 @@ install:
 
   - source bin/hunter_env.sh
 
+  - [ $(which clang++) ] && clang++ --version
+  - [ $(which g++) ] && g++ --version
+
 script:
   - bin/jenkins.sh
 
