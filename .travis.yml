@@ -109,8 +109,8 @@ install:
 
   - source bin/hunter_env.sh
 
-  - [ $(which clang++) ] && clang++ --version
-  - [ $(which g++) ] && g++ --version
+  - [ $(which clang++) ] && clang++ --version || echo "clang missing or not in path"
+  - [ $(which g++) ] && g++ --version || echo "g++ missing or not in path"
 
 script:
   - bin/jenkins.sh
