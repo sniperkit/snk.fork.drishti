@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CMakeParseArguments) # cmake_parse_arguments
 
 cmake_policy(SET CMP0026 OLD) # drishti_merge_libraries_msvc use LOCATION

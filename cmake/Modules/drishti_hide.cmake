@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(drishti_hide drishti_library)
   # Xcode
   set_target_properties(${drishti_library}

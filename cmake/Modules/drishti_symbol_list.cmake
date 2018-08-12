@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(drishti_symbol_list drishti_library)
   set(
     DRISHTI_SDK_SYMBOLS

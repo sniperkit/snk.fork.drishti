@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(DEFINED APP_FACEFILTER_IOS_SHADERS_SUGAR_CMAKE_)
   return()
 else()

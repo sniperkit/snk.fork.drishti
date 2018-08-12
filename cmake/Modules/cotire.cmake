@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # - cotire (compile time reducer)
 #
 # See the cotire manual for usage hints.

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(DEFINED SUGAR_CMAKE_)
   return()
 else()

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(drishti_configure_doxygen)
 
   if(NOT DOXYGEN_FOUND)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #https://cmake.org/Wiki/CMake_RPATH_handling
 
 macro(drishti_set_rpath)

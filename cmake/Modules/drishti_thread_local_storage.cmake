@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(drishti_thread_local_storage varName)
   include(CheckCSourceCompiles)
   check_c_source_compiles("

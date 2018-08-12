@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(DEFINED LIB_FACEFILTER_RENDERER_SUGAR_CMAKE_)
   return()
 else()

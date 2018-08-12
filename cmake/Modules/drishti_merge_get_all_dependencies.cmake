@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(drishti_merge_print)
 
 include(CMakeParseArguments) # cmake_parse_arguments

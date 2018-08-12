@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 macro(drishti_set_cxx_flags)
 
   if(NOT MSVC)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 if(ANDROID)
   sugar_files(FACEFILTER_RENDERER_HDRS
     FaceTrackerFactoryJsonAndroid.h

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # opencv/cmake/OpenCVUtils.cmake
 
 # Provides an option that the user can optionally select.

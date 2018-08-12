@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Search all populated CMake variables matching the pattern <name>_LICENSE, and copy to specified directory
 # as ${drishti_license_dir}/<name>_LICENSE
 

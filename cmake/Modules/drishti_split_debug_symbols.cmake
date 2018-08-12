@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(drishti_split_debug_symbols lib_name)
 
   if(XCODE)

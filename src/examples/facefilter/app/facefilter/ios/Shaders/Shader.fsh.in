@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 /*
      File: Shader.fsh
  Abstract: Fragment shader for converting Y/UV textures to RGB.

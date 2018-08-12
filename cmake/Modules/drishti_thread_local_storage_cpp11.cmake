@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 function(drishti_thread_local_storage_cpp11 varName)
   include(CheckCSourceCompiles)
   check_cxx_source_compiles("static thread_local int tls; int main(void) { return 0; }"

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # Copyright (c) 2013, Ruslan Baratov
 # All rights reserved.
 

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 #   generate_sugar_files.py
 # see wiki for more info:
 #   https://github.com/ruslo/sugar/wiki/Collecting-sources

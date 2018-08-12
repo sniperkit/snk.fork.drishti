@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 # CMake style would be: CheckCxxLinkerFlag, but this could very well be added in the future
 # Note that CheckCxxCompilerFlags will not work for linker flags.
 # See discussion here: https://cmake.org/pipermail/cmake/2011-July/045525.html

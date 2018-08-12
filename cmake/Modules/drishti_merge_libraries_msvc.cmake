@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CMakeParseArguments) # cmake_parse_arguments
 
 include(drishti_get_library_location)

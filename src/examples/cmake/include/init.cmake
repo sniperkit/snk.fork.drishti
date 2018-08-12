@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 set(top_dir "${CMAKE_CURRENT_LIST_DIR}/../..")
 
 if(FACEFILTER_ANDROID_STUDIO)

@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 include(CMakeParseArguments) # cmake_parse_arguments
 
 function(drishti_merge_libraries_xcode)
